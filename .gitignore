@@ -13,5 +13,9 @@ build/*
 .DS_Store
 profile
 
+# ???
+*.xccheckout
+*.xcuserstate
+
 
 
